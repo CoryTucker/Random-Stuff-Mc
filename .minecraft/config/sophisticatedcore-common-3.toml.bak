@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:advanced_refill_upgrade|true", "sophisticatedbackpacks:advanced_pump_upgrade|true", "sophisticatedstorage:controller|true", "sophisticatedstorage:stack_upgrade_tier_1|true", "sophisticatedstorage:stack_upgrade_tier_2|true", "sophisticatedstorage:stack_upgrade_tier_3|true", "sophisticatedstorage:stack_upgrade_tier_4|true", "sophisticatedstorage:compacting_upgrade|true", "sophisticatedbackpacks:advanced_magnet_upgrade|true", "sophisticatedstorage:upgrade_base|true", "sophisticatedstorage:magnet_upgrade|true", "sophisticatedstorage:limited_iron_barrel_2|true", "sophisticatedstorage:limited_iron_barrel_1|true", "sophisticatedbackpacks:iron_backpack|true", "sophisticatedstorage:iron_shulker_box|true", "sophisticatedbackpacks:auto_smoking_upgrade|true"]
+

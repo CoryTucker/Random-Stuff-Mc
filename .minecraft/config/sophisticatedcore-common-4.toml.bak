@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:advanced_refill_upgrade|true", "sophisticatedbackpacks:advanced_pump_upgrade|true"]
+

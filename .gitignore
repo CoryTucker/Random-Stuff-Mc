@@ -1,0 +1,11 @@
+/instance.cfg
+/natives/
+/.minecraft/usernamecache.json
+/.minecraft/usercache.json
+/.minecraft/crash-reports/
+/.minecraft/logs/
+/.minecraft/saves/
+/.minecraft/mods.old*/
+/.minecraft/screenshots/
+/.minecraft/XaeroWaypoints*/
+/.minecraft/debug/
